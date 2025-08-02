@@ -1,4 +1,4 @@
-# Hi, I'm Thomas Robin! 👋
+# Hi, I'm Robin Thomas! 👋
 
 I'm currently pursuing a master's in Financial Engineering at EDHEC, where I combine my quantitative skills with a practical approach to solving real-world finance problems.
 
